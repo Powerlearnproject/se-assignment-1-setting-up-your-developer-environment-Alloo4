@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15292963&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
-
+![alt text](<Screenshot (390).png>)
 #Assignment: Setting Up Your Developer Environment
 
 #Objective:
@@ -15,12 +15,13 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   ![alt text](<Screenshot (390)-1.png>)
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
-
+![alt text](<Screenshot (391).png>)
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
-
+![alt text](<Screenshot (392).png>)
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
